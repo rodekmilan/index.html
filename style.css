@@ -1,14 +1,15 @@
-h1{
-  text-align: center;
-  color: purple;
+h1 {
+    text-align: center;
+    color: white;
 }
+
 body{
-  background-image: url(./best\ dad.jpg);
+    background-image: url(./img/spongebobgiff.gif);
     background-repeat: no-repeat;
     background-position: center;
     background-attachment: fixed;
     background-size: cover;
 }
 p{
-  color: purple;
+    color: whitesmoke;
 }
